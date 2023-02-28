@@ -1,5 +1,10 @@
 package com.lpa.tictactoe;
 
+    /*
+    @Author - LwinPhyoAung
+    Simple TicTacToe
+    */
+
 public class TicTacToe {
 
     public static void main(String[] args) {
